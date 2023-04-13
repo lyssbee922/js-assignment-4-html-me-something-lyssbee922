@@ -1,1 +1,39 @@
 /* Write your CSS here! */
+body {
+    padding: 10%;
+    background-color: #F2E8DF;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #736151;
+
+}
+
+.funParagraph {
+    color: green;
+}
+
+#mainHeading {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    color: #736151;
+}
+
+p {
+    margin: 8px;
+    display: block;
+}
+
+#caption {
+    text-align: center;
+    
+}
+#tagline {
+    text-align: center;
+}
